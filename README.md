@@ -71,9 +71,7 @@ O sistema permite a gestão de alunos, cursos e relações entre eles. As princi
 Este projeto não utiliza bibliotecas externas, apenas as bibliotecas padrão do Java.
 
 ## Autor
-Desenvolvido pelo grupo de Trabalho semestral de Análise e Projeto de Sistemas.
+Desenvolvido pelo grupo de Trabalho semestral de Análise e Projeto de Sistemas Desenvolvido por Lucas César, Guilherme Henrique, Pedro Palmeira.
 
----
 
-Caso tenha alguma dúvida ou queira contribuir com o projeto, sinta-se à vontade para entrar em contato!
 
